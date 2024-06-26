@@ -44,5 +44,12 @@ jupyter notebook
 ```
 Navigate to CMM_CV_FINAL.ipynb and open it.
 
+## Acknowledgements
+
+- <a href=https://github.com/AndyYeom>Andy Yeom</a>, for overall guidance in debugging & developing the optical character recognition process
+- <a href=https://github.com/alexsuakim>Sua Kim</a>, for the initial concept & overall guidance in development
+- <a href=https://github.com/minaseong>Mina Seong</a>, for developing the edge detection & perspectives transformation processes
+- <a href=https://github.com/everyweek10>Leia Kim</a>, for developing the CNN classification & image processing processes
+- <a href=https://github.com/thomasshin>Thomas Shin</a> and <a href=https://github.com/coalla2970>Jinho Kwak</a>, the project managers, for overall coordination and support
 
 
