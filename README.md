@@ -33,7 +33,7 @@ pip install numpy opencv-python pytesseract
 ### Clone this Repository
 
 ```bash
-git clone https://github.com/alexsuakim/Student-ID-Scanner.git
+git clone https://github.com/AndyYeom/Student-ID-Scanning
 cd Student-ID-Scanner
 ```
 
